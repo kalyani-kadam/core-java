@@ -10,7 +10,7 @@ class corona
 	int pincode;
 	void get_details()
 	{	
-		Scanner sc=new Scanner(System.in);
+		Scanner sc =new Scanner(System.in);
 		System.out.println("ENTER YOUR NAME:");
 		name=sc.next();
 		System.out.println("ENTER YOUR AGE:");

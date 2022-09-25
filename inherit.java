@@ -6,8 +6,7 @@ class parent
 		System.out.println("parent");
 	}
 }
-class childextendparent
-{
+class child() extend parent{
 	int b=10;
 	void show()
 	{
